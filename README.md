@@ -22,3 +22,10 @@ This is the repo with all the tests and libraries for the Adafruit Flora v3 for 
 
 [Headphone mods with FLORA](https://learn.adafruit.com/glowing-skullcandy-headphones-mod/)
 
+![](/documentation-videos-images/WhatsApp%20Video%202024-07-14%20at%2001.33.59.mp4)
+
+![](/documentation-videos-images/WhatsApp%20Video%202024-07-18%20at%2023.11.22.mp4)
+
+![](/documentation-videos-images/WhatsApp%20Video%202024-07-19%20at%2013.32.42.mp4)
+
+![](/documentation-videos-images/WhatsApp%20Video%202024-07-19%20at%2014.16.08.mp4)
