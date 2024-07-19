@@ -29,6 +29,10 @@ This is the repo with all the tests and libraries for the Adafruit Flora v3 for 
 
 ### Inspiration 
 
+<img width="1229" alt="Screenshot 2024-07-19 at 7 11 04 PM" src="https://github.com/user-attachments/assets/3c0077cb-f615-43e7-bef3-d8f62b0a3e60">
+
+
+## Video updates
 
 https://github.com/user-attachments/assets/4d8cc025-5219-4d74-af63-7a7b31218922
 
