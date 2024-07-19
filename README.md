@@ -22,6 +22,13 @@ This is the repo with all the tests and libraries for the Adafruit Flora v3 for 
 
 [Headphone mods with FLORA](https://learn.adafruit.com/glowing-skullcandy-headphones-mod/)
 
+## Next Steps
+
+- [x] Basic components working
+- [ ] [Use Critical Critters as a template to build a tactile interface](https://www.kobakant.at/DIY/?p=7873)
+
+### Inspiration 
+
 
 https://github.com/user-attachments/assets/4d8cc025-5219-4d74-af63-7a7b31218922
 
@@ -31,11 +38,4 @@ https://github.com/user-attachments/assets/fd5d5af3-95e3-4a06-9104-bd2bb0a602e2
 
 https://github.com/user-attachments/assets/b08864ab-df57-4d22-9e33-48c95b74be47
 
-
-## Next Steps
-
-- [x] Basic components working
-- [ ] [Use Critical Critters as a template to build a tactile interface](https://www.kobakant.at/DIY/?p=7873)
-
-### Inspiration 
 
