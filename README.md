@@ -34,6 +34,11 @@ This is the repo with all the tests and libraries for the Adafruit Flora v3 for 
 
 ## Video updates
 
+
+https://github.com/user-attachments/assets/87079b0d-c3f0-486f-a5a3-d54a35dc461e
+
+![WhatsApp Image 2024-07-26 at 10 54 30](https://github.com/user-attachments/assets/64570160-1455-4b8d-a4e2-50bc2d7fc9a2)
+
 https://github.com/user-attachments/assets/4d8cc025-5219-4d74-af63-7a7b31218922
 
 https://github.com/user-attachments/assets/26af231a-060b-4725-91eb-f021a60fad58
