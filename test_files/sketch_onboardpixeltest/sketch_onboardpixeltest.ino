@@ -32,7 +32,7 @@ Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ80
     void loop() {
 
       // pixels.Color takes RGB values, from 0,0,0 up to 255,255,255
-      pixels.setPixelColor(0, pixels.Color(100,0,0)); 
+      pixels.setPixelColor(0, pixels.Color(150,0,200)); 
 
       pixels.show(); // This sends the updated pixel color to the Flora.
 }

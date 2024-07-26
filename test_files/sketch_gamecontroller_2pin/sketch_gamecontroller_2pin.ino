@@ -9,8 +9,8 @@ http://learn.adafruit.com/plush-game-controller/
 Uses Modern Device's Capacitive Sensing library: https://github.com/moderndevice/CapSense
   Adafruit invests time and resources providing this open source code, 
   please support Adafruit and open-source hardware by purchasing 
-  products from Adafruit!
-  Written by Limor Fried & Becky Stern for Adafruit Industries.  
+  products from Adafruit!aaaaa
+  Written by Limor Fried & Baecky Stern for Adafruit Industries.  
   BSD license, all text above must be included in any redistribution
   
 */
@@ -47,7 +47,7 @@ float smoothed[2] = {0,0};
 void setup()
 {
   //while (!Serial)
-  Serial.begin(115200);
+  Serial.begin(9600);
   Serial.println("start");
   Keyboard.begin();
 }
@@ -79,8 +79,8 @@ void loop()
       Keyboard.release(Keys[i]);
     }
     
-/*
-    // simple lowpass filter to take out some of the jitter
+
+ /*   // simple lowpass filter to take out some of the jitter
     // change parameter (0 is min, .99 is max) or eliminate to suit
     smoothed[i] = smooth(total, .8, smoothed[i]);   
     Serial.print(i); Serial.print(": ");
@@ -89,12 +89,13 @@ void loop()
     Serial.print(total);                  // raw total
     Serial.print("\t->\t");
     Serial.println((int) smoothed[i]);       // smoothed
-*/
-    delay(5);
+
+    delay(25);
   }
+  */
 }
 
-// simple lowpass filter
+// simple lowpass filterabababab
 // requires recycling the output in the "smoothedVal" param
 int smooth(int data, float filterVal, float smoothedVal){
 
