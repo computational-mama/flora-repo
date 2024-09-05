@@ -1,0 +1,1 @@
+Detect knocks with a piezo element, changes the NEOPIXEL ring color. The piezo sensor is inside a wool ball!
