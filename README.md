@@ -4,15 +4,20 @@ This is the repo with all the tests and libraries for the Adafruit Flora v3 for 
 
 ## Things used:
 
-1. Adafruit Flora v3
-2. 4x4 WS2812b matrix
-3. alligator clips
-4. momentary switch
+- Adafruit Flora v3
+- 4x4 WS2812b matrix
+- alligator clips
+- momentary switch
+- piezo sensors
+- metal snap buttons
+- nylon conductive thread
+- namda wool from Studio Dabu
+- 8-bit and 16-bit WS2812b ring
 
 ## What files does what
-1. 4x4 drawmatrix - you can use adafruit neopixel gxf library to draw stuff (like p5)
-2. 4x4 matrix - pre built animations
-3. gamecontroller - uses pins to type letter 'a' and 'b'
+- 4x4 drawmatrix - you can use adafruit neopixel gxf library to draw stuff (like p5)
+- 4x4 matrix - pre built animations
+- gamecontroller - uses pins to type letter 'a' and 'b'
 
 ## Some getting started links:
 
